@@ -12,7 +12,6 @@ import {
   Pause,
   Play,
   Plus,
-  Radio,
   Repeat2,
   Rewind,
   Search,
